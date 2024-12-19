@@ -9,7 +9,7 @@ spec:
   chart:
     spec:
       chart: nginx-ingress
-      version: 1.2.x
+      version: 2.x.x
       interval: 5h # this is for checking of a new chart
       sourceRef:
         kind: HelmRepository
